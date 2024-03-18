@@ -1,0 +1,44 @@
+#team{
+    padding: 120px 0;
+    background-color: #F4F6FC;
+}
+.team_text h2{
+    
+    font-size: 48px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 64px;
+   
+}
+.team_card{
+    background-color: #fff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+} 
+.team_card img{
+    margin: 0 45px;
+}
+.team_card h4{
+    
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 36px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.team_card h5 {
+	font-size: 16px;
+	font-weight: 400;
+	font-family: 'Poppins', sans-serif;
+	color: #282938;
+	font-style: normal;
+	line-height: 28px;
+	margin-left: -61px;
+	text-align: center;
+}

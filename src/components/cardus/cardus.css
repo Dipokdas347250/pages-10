@@ -1,0 +1,492 @@
+#card{
+    padding-top: 128px;
+    padding-bottom: 818px;
+    background-color: #fff;
+}
+.card_text{
+    height: 136px;
+    width: 562px;
+    
+}
+.card_text h2{
+    font-size: 48px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 64px;
+    text-align: center;
+}
+.card_text p{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 28px;
+    text-align: center;
+}
+.card_item_one{
+    background-color: #F4F6FC;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-bottom: 62px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_one:hover{
+    background-color: #1C1E53;
+}
+
+.card_item_one h3{
+    height: 56px;
+    width: 95px;
+    font-size: 38px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 56px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_one:hover h3{
+    color: #fff;
+   
+}
+.card_item_one h5{
+    height: 28px;
+    width: 84px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    color: #2405F2;
+    font-style: normal;
+    line-height: 28px;
+    margin-top: -50px;
+    margin-left: 100px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_one:hover h5{
+    color: #FCD980;
+}
+.card_item_one h4{
+    height: 38px;
+    width: 180px;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 36px;
+    margin-top: 20px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_one:hover h4{
+    color: #fff;
+}
+.card_item_one p{
+    height: 56px;
+    width: 281px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 28px;
+    margin-top: 20px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_one:hover p{
+    color: #fff;
+}
+.card_icon{
+    margin-top: 78px;
+}
+.card_item_one .card_icon a{
+    display: block;
+    padding: 20px 0;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 28px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+
+.card_item_one .card_icon:hover a{
+    color: #fff;
+}
+.card_item_one i{
+    color: #97DAAD;
+}
+.card_item_one .one{
+     height: 64px;
+     width: 254px;
+     background-color: #282938;
+     border-radius: 41px;
+     -webkit-border-radius: 41px;
+     -moz-border-radius: 41px;
+     -ms-border-radius: 41px;
+     -o-border-radius: 41px;
+    margin-top: 79px;
+    margin-left: 25px;
+}
+.card_item_one .one a{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: #F4F6FC;
+    font-style: normal;
+    line-height: 64px;
+    text-align: center;
+    margin-left: 80px;
+    
+}
+.card_item_one .one:hover{
+    background-color: #FCD980;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_one .one:hover a{
+    color: #282938;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_two{
+    background-color: #1C1E53;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-bottom: 62px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_two:hover{
+   background-color: #F4F6FC;
+}
+.card_item_two h3{
+    height: 56px;
+    width: 95px;
+    font-size: 38px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    font-style: normal;
+    line-height: 56px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_two:hover h3{
+    color: #1C1E53;
+}
+.card_item_two h5{
+    height: 28px;
+    width: 120px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    color: #FCD980;
+    font-style: normal;
+    line-height: 28px;
+    margin-top: -50px;
+    margin-left: 130px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_two:hover h5{
+    color: #2405F2;
+}
+.card_item_two h4{
+    height: 38px;
+    width: 180px;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    font-style: normal;
+    line-height: 36px;
+    margin-top: 20px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_two:hover h4{
+    color: #1C1E53;
+}
+.card_item_two p{
+    height: 56px;
+    width: 281px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    font-style: normal;
+    line-height: 28px;
+    margin-top: 20px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_two:hover p{
+    color: #1C1E53;
+}
+.card_icon{
+    margin-top: 78px;
+}
+.card_item_two .card_icon a{
+    display: block;
+    padding: 20px 0;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    font-style: normal;
+    line-height: 28px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_two .card_icon:hover a{
+    color: #1C1E53;
+}
+.card_item_two i{
+    color: #97DAAD;
+}
+.card_item_two .two{
+     height: 64px;
+     width: 254px;
+     background-color: #FCD980;
+     border-radius: 41px;
+     -webkit-border-radius: 41px;
+     -moz-border-radius: 41px;
+     -ms-border-radius: 41px;
+     -o-border-radius: 41px;
+    margin-top: 79px;
+    margin-left: 25px;
+}
+.card_item_two .two:hover{
+    background-color: #282938;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_two .two:hover a{
+    color: #F4F6FC;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_two .two a{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: #1C1E53;
+    
+    font-style: normal;
+    line-height: 64px;
+    text-align: center;
+    margin-left: 80px;
+    
+}
+/*  */
+.card_item_three{
+    background-color: #F4F6FC;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-bottom: 62px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_three:hover{
+    background-color: #1C1E53;
+}
+.card_item_three h3{
+    height: 56px;
+    width: 150px;
+    font-size: 38px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 56px;
+    transition: 0.5;
+    -webkit-transition: 0.5;
+    -moz-transition: 0.5;
+    -ms-transition: 0.5;
+    -o-transition: 0.5;
+}
+.card_item_three:hover h3{
+    color: #fff;
+}
+.card_item_three h5{
+    height: 28px;
+    width: 84px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    color: #2405F2;
+    font-style: normal;
+    line-height: 28px;
+    margin-top: -50px;
+    margin-left: 150px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_three:hover h5{
+    color: #FCD980;
+}
+.card_item_three h4{
+    height: 38px;
+    width: 200px;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 36px;
+    margin-top: 20px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_three:hover h4{
+    color: #fff;
+}
+.card_item_three p{
+    height: 56px;
+    width: 281px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 28px;
+    margin-top: 20px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_three:hover p{
+    color: #fff;
+}
+.card_icon{
+    margin-top: 78px;
+}
+.card_item_three .card_icon a{
+    display: block;
+    padding: 20px 0;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 28px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_three .card_icon:hover a{
+    color: #fff;
+}
+.card_item_three i{
+    color: #97DAAD;
+}
+.card_item_three .three{
+     height: 64px;
+     width: 254px;
+     background-color: #282938;
+     border-radius: 41px;
+     -webkit-border-radius: 41px;
+     -moz-border-radius: 41px;
+     -ms-border-radius: 41px;
+     -o-border-radius: 41px;
+    margin-top: 79px;
+    margin-left: 25px;
+}
+.card_item_three .three a{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: #F4F6FC;
+    font-style: normal;
+    line-height: 64px;
+    text-align: center;
+    margin-left: 80px;
+    
+}
+.card_item_three .three:hover{
+    background-color: #FCD980;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.card_item_three .three:hover a{
+    color: #282938;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}

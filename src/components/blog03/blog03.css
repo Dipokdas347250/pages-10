@@ -1,0 +1,58 @@
+#our{
+    padding: 120px 0;
+    background-color: #fff;
+}
+.our_part h2{
+    font-size: 48px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 64px;
+    text-align: center;
+    width: 208px;
+    margin-left: 25px;
+}
+.our_item img{
+    margin-top: 48px;
+    width: 100%;
+}
+.our_item h4{
+    margin-top: 32px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 28px;
+}
+.our_item h3{
+    margin-top: 16px;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 36px;
+    width: 380px;
+}
+.our_item p{
+    margin-top: 16px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 28px;
+    width: 380px;
+}
+.our_item h5{
+    margin-top: 24px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 28px;
+    
+}

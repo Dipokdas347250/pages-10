@@ -1,0 +1,20 @@
+#faq{
+    padding: 120px 0;
+}
+.faq_text h3{
+    font-size: 32px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 40px;
+}
+.faq_text a{
+    font-size: 18px;
+    color: #2405F2;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    
+    font-style: normal;
+    line-height: 28px;
+}

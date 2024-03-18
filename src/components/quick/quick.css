@@ -1,0 +1,41 @@
+#quick{
+   padding: 120px 0;
+    background-color: #FCD980;
+   
+}
+.quick_text h4{
+    height: 32px;
+    width: 191px;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color: #000;
+    font-style: normal;
+    line-height: 32px;
+    margin-top: 20px;
+}
+.quick_text h3{
+    height: 168px;
+    width: 580px;
+    font-size: 38px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: #232536;
+    font-style: normal;
+    line-height: 56px;
+    
+}
+.quick_text p{
+    height: 84px;
+    width: 580px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    color: #000;
+    font-style: normal;
+    line-height: 28px;
+    margin-top: -50px;
+}
+.quick_img img{
+    width: 100%;
+}

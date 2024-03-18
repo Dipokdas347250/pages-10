@@ -1,0 +1,167 @@
+#our{
+    padding: 120px 0;
+}
+.our_text{
+    display: flex;
+    justify-content: space-between;
+}
+.our_text h2{
+    font-family: "Poppins", sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 60px;
+    color: #282938;
+}
+.our_text a{
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #282938;
+}
+.card_img img{
+    width: 100%;
+    
+}
+.card_img01 img{
+    width: 100%;
+    
+}
+.card_img02 img{
+    width: 100%;
+}
+.card_img{
+    margin-top: 74px;
+    position: relative;
+}
+.card_img::after{
+    position: absolute;
+    content: "";
+    height: 100%;
+    width: 40%;
+    left: 0;
+    top: 0;
+    background: linear-gradient(329deg, #1C1E53 -10.96%, rgba(28, 30, 83, 0.42) 103.96%);
+    transition: 0.7s;
+    -webkit-transition: 0.7s;
+    -moz-transition: 0.7s;
+    -ms-transition: 0.7s;
+    -o-transition: 0.7s;
+}
+.card_img:hover::after{
+    width: 100%;
+}
+.card_text{
+    position: absolute;
+    left: 0 ;
+    top: 0;
+    z-index: 2;
+    opacity: 0;
+    transition: 0.7s;
+    -webkit-transition: 0.7s;
+    -moz-transition: 0.7s;
+    -ms-transition: 0.7s;
+    -o-transition: 0.7s;
+}
+.card_img:hover .card_text{
+    opacity: 1;
+}
+.card_text h2{
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    font-style: normal;
+    line-height: 36px;
+    width: 313px;
+    margin-top: 270px;
+    margin-left: 48px;
+}
+.card_text h3{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color:#FCD980;
+    font-style: normal;
+    line-height: 28px;
+    
+    margin-top: 50px;
+    margin-left: 48px;
+}
+.card_img01{
+    margin-top: 74px;
+    position: relative;
+}
+.card_img01::after{
+    position: absolute;
+    content: "";
+    height: 100%;
+    width: 40%;
+    left: 0;
+    top: 0;
+    background: linear-gradient(329deg, #1C1E53 -10.96%, rgba(28, 30, 83, 0.42) 103.96%);
+    transition: 0.7s;
+    -webkit-transition: 0.7s;
+    -moz-transition: 0.7s;
+    -ms-transition: 0.7s;
+    -o-transition: 0.7s;
+}
+.card_img01:hover::after{
+    width: 100%;
+}
+.card_text01{
+    position: absolute;
+    left: 0 ;
+    top: 0;
+    z-index: 2;
+    opacity: 0;
+    transition: 0.7s;
+    -webkit-transition: 0.7s;
+    -moz-transition: 0.7s;
+    -ms-transition: 0.7s;
+    -o-transition: 0.7s;
+}
+.card_img01:hover .card_text01{
+    opacity: 1;
+}
+.card_text01 h2{
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    font-style: normal;
+    line-height: 36px;
+    width: 280px;
+    margin-top: 100px;
+    margin-left: 48px;
+}
+.card_text01 h3{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color:#FCD980;
+    font-style: normal;
+    line-height: 28px;
+    margin-left: 48px;
+}
+.card_img02{
+    margin-top: 25px;
+    position: relative;
+}
+.card_img02::after{
+    position: absolute;
+    content: "";
+    height: 100%;
+    width: 0%;
+    left: 0;
+    top: 0;
+    background: linear-gradient(329deg, #1C1E53 -10.96%, rgba(28, 30, 83, 0.42) 103.96%);
+    transition: 0.7s;
+    -webkit-transition: 0.7s;
+    -moz-transition: 0.7s;
+    -ms-transition: 0.7s;
+    -o-transition: 0.7s;
+}
+.card_img02:hover::after{
+    width: 100%;
+}

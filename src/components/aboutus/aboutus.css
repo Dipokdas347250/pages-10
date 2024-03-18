@@ -1,0 +1,25 @@
+#about{
+   padding: 120px 0;
+    background-color: #fff;
+}
+.about_text h2{
+    
+    font-size: 54px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 74px;
+}
+.about_text p{
+   
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 28px;
+}
+.about_img img{
+    width: 100%;
+}
